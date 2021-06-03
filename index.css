@@ -1,0 +1,16 @@
+ .main {
+     margin-left: 30%;
+     margin-right: 33%;
+     background-color: #4373b9;
+     margin-top: 15px;
+ }
+  
+ table td {
+     width: 30px;
+     height: 80px;
+ }
+ 
+ td img {
+     width: 80px;
+     height: 80px;
+ }
